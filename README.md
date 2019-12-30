@@ -14,7 +14,7 @@ ex: My link for editing my spreadsheet looks like: https://docs.google.com/sprea
 
 My key is: 14bUBPatyCQ8Xx4wMeatBc2Wm513zQC7LHGBBVMrAebU
 ### Credit:
-I would like to credit [@mikeymckay](https://github.com/mikeymckay/google-spreadsheet-javascript) <-- I've linked his version of my plugin here
+[@mikeymckay](https://github.com/mikeymckay/google-spreadsheet-javascript) <-- I've linked his version of the script here
 
 His code is 9 years old so I had to hack around to get it to work and eventually simplify it.
 ### Shortcomings
