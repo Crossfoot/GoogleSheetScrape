@@ -2,7 +2,7 @@
 Small JS file that scrapes given google sheet file using only JS.
 
 My reason for hacking this together is that GithubPages doesn't support any serverside code and this was the only solution.
-# Tutorial
+# Directions
 ## 1. Make your Google Sheet Published.
 File -> Publish to the Web. (I don't think the settings matter beyond this, but I published the whole document).
 ## 2. In your HTML file add a pre tag with the id results.
