@@ -8,7 +8,7 @@ File -> Publish to the Web. (I don't think the settings matter beyond this, but 
 ## 2. In your HTML file add a pre tag with the id results.
 This is just a starting point so you can actually utilize the data.
 
-ex: `<pre id=results></pre>`
+ex: `<pre id="results"></pre>`
 ## 3. Copy your key and replace the mykey value.
 ex: My link for editing my spreadsheet looks like: https://docs.google.com/spreadsheets/d/14bUBPatyCQ8Xx4wMeatBc2Wm513zQC7LHGBBVMrAebU/edit#gid=0
 
